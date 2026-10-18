@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 {%- assign rtl = false -%}
-{%- if page.dir == "rtl" -%}{%- assign rtl = true -%}{%- endif -%}
+{%- comment -%} page.dir is Jekyll's own folder attribute, so the direction follows the language. {%- endcomment -%}
+{%- if page.lang == "ar" -%}{%- assign rtl = true -%}{%- endif -%}
 <html lang="{{ page.lang | default: site.lang | default: "en-US" }}" dir="{% if rtl %}rtl{% else %}ltr{% endif %}">
   <head>
     <meta charset="UTF-8">
