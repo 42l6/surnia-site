@@ -1,6 +1,8 @@
 ---
 lang: ar
 dir: rtl
+title: سياسة الخصوصية
+description: سياسة الخصوصية لتطبيق سورنيا – دردشة ذكاء اصطناعي دون إنترنت.
 ---
 
 <div dir="rtl" markdown="1">
