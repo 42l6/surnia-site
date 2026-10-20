@@ -8,7 +8,7 @@ Nothing. Surnia has no accounts, no analytics, no advertising and no servers of 
 
 ## Network use
 
-Surnia connects to the internet for one purpose: downloading the model files you choose from the Models screen. Files are fetched from Hugging Face (huggingface.co). That request contains no personal data beyond what any web download sends (your IP address and the file requested). Nothing you type in Surnia is ever sent anywhere.
+Surnia connects to the internet for one purpose: downloading the model files you choose from the Models screen. Files are fetched from Hugging Face (huggingface.co and its content-delivery hosts such as hf.co). That request contains no personal data beyond what any web download sends (your IP address and the file requested). Nothing you type in Surnia is ever sent anywhere.
 
 ## Photos and camera
 
@@ -16,7 +16,7 @@ You can attach a photo from your library or take one with the camera so a vision
 
 ## Reporting a response
 
-If a reply is wrong or objectionable, you can long-press it and choose "Report a response". This opens an email to the developer in your mail app with the reply included. Nothing is sent unless you send that email yourself.
+If a reply is wrong or objectionable, tap the "…" button under it (or long-press it) and choose "Report a response". This opens an email to the developer in your mail app with the reply, the model's name and the app version included. Nothing is sent unless you send that email yourself. If no mail app is set up, Surnia shows the address to write to instead.
 
 ## Apple on-device model
 
