@@ -2,14 +2,16 @@
 lang: ar
 dir: rtl
 title: سياسة الخصوصية
-description: سياسة الخصوصية لتطبيق سورنيا – دردشة ذكاء اصطناعي دون إنترنت.
+description: سياسة الخصوصية لتطبيق Surnia – Offline AI Chat.
 ---
 
 <div dir="rtl" markdown="1">
 
 # سياسة الخصوصية
 
-يشغّل **سورنيا – دردشة ذكاء اصطناعي دون إنترنت** نماذج اللغة على جهازك بالكامل.
+[English](privacy-policy)
+
+يشغّل **Surnia – Offline AI Chat** نماذج اللغة على جهازك بالكامل.
 
 ## ما الذي يجمعه سورنيا
 
