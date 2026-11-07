@@ -12,7 +12,7 @@ Surnia runs open-source language models entirely on your iPhone and iPad. There 
 
 **How do I change the language?** Settings → App language. The app switches immediately. The same setting is in iOS Settings → Surnia → Language.
 
-**A reply was wrong or offensive.** Tap the "…" button under the reply (or long-press it) and choose "Report a response". This opens an email to us with the reply included. If no mail app is set up, write to the address below.
+**A reply was wrong or offensive.** Tap the "…" button under the reply (or long-press it) and choose "Report a response". This opens an email to us with the reply and your device's details included. If no mail app is set up, write to the address below.
 
 **Where is my data?** Only on your device. See the [Privacy Policy](privacy-policy) ([العربية](privacy-policy-ar)).
 

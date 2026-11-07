@@ -4,7 +4,7 @@
 
 ## What Surnia collects
 
-Nothing. Surnia has no accounts, no analytics, no advertising and no servers of its own. Your conversations, settings and models are stored on your device and are never sent to the developer or to any server.
+Nothing. Surnia has no accounts, no analytics, no advertising and no servers of its own. Your conversations, settings and models are stored on your device and are never sent to the developer or to any server, unless you send a report yourself.
 
 ## Network use
 
@@ -18,7 +18,7 @@ You can also share photos, PDF and text files to Surnia from other apps with the
 
 ## Reporting a response
 
-If a reply is wrong or objectionable, tap the "…" button under it (or long-press it) and choose "Report a response". This opens an email to the developer in your mail app with the reply, the model's name and the app version included. Nothing is sent unless you send that email yourself. If no mail app is set up, Surnia shows the address to write to instead.
+If a reply is wrong or objectionable, tap the "…" button under it (or long-press it) and choose "Report a response". This opens an email to the developer in your mail app with the reply (up to 1,500 characters), the model and engine, the app version and build, your device model, chip, memory size and system version, and the reply's speed included, so the developer can reproduce the problem. You can read and change all of it in the email, and nothing is sent unless you send that email yourself. If no mail app is set up, Surnia shows the address to write to instead. A report you send is kept only to answer it and fix the problem it describes. To have yours deleted, write to omarluay@42l6.com.
 
 ## Apple on-device model
 
@@ -38,4 +38,4 @@ Surnia is not directed at children under 13.
 
 Questions: omarluay@42l6.com
 
-_Last updated: October 2026_
+_Last updated: November 2026_
