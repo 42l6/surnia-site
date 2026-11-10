@@ -3,7 +3,7 @@
 
 ## llama.cpp and ggml
 
-https://github.com/ggml-org/llama.cpp (build b11887)
+https://github.com/ggml-org/llama.cpp (build b12233)
 
 MIT License
 
