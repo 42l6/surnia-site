@@ -3,7 +3,7 @@
 
 ## llama.cpp and ggml
 
-https://github.com/ggml-org/llama.cpp (build b12233)
+https://github.com/ggml-org/llama.cpp (build b12432)
 
 MIT License
 
@@ -479,6 +479,7 @@ Each model you download has its own license, shown on its card in Manage models 
 
 - Qwen3.5 (Alibaba): Apache License 2.0 — https://huggingface.co/Qwen/Qwen3.5-4B
 - LFM2.5 (Liquid AI): LFM Open License v1.0 — free for research and for commercial use by individuals and organisations with annual revenue under US$10 million; full text: https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct/blob/main/LICENSE
+- LFM3 (Liquid AI): LFM Open License v1.0 — free for research and for commercial use by individuals and organisations with annual revenue under US$10 million; full text: https://huggingface.co/LiquidAI/LFM3-1.7B/blob/main/LICENSE
 - SmolLM3 (Hugging Face): Apache License 2.0 — https://huggingface.co/HuggingFaceTB/SmolLM3-3B
 - Ministral 3 (Mistral AI): Apache License 2.0 — https://huggingface.co/mistralai/Ministral-3-3B-Instruct-2512
 - Phi-4 mini (Microsoft): MIT License — https://huggingface.co/microsoft/Phi-4-mini-instruct/blob/main/LICENSE

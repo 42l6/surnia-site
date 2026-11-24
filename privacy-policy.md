@@ -10,11 +10,17 @@ Nothing. Surnia has no accounts, no analytics, no advertising and no servers of 
 
 Surnia connects to the internet for one purpose: downloading the model files you choose from the Models screen. Files are fetched from Hugging Face (huggingface.co and its content-delivery hosts such as hf.co). That request contains no personal data beyond what any web download sends (your IP address and the file requested). Nothing you type in Surnia is sent by the app to any server.
 
+## Download notices
+
+If you turn on "Notify me when it's ready" under a download, Surnia asks iOS for permission to show notices, only at that moment, and then shows a notice on this device when a model finishes downloading or stops downloading. The notice is made on the device; nothing is sent to us or to anyone else. You can turn notices off at any time in iOS Settings.
+
 ## Photos and camera
 
 You can attach a photo from your library or take one with the camera so a vision model can look at it. Photos are chosen with Apple's system picker, so Surnia only sees the photos you pick. They are processed on your device, saved with that chat, and never uploaded. Surnia asks for camera access only when you first take a photo, and you can turn it off at any time in iOS Settings.
 
 You can also share photos, PDF and text files to Surnia from other apps with the Share button. Surnia receives only what you share; it is kept on your device in Surnia's own storage until it appears in the chat, and is never uploaded.
+
+When you paste or drop a photo or file into a chat, Surnia makes a private temporary copy in its own storage, reads it into the chat, and deletes the copy once it has been read. Nothing is uploaded.
 
 ## Microphone and voice notes
 
@@ -28,7 +34,11 @@ You can ask Surnia through Siri, Shortcuts or Spotlight. Siri turns a spoken que
 
 If a reply is wrong or objectionable, tap the "…" button under it (or long-press it) and choose "Report a response". This opens an email to the developer in your mail app with the reply (up to 1,500 characters), the model and engine, the app version and build, your device model, chip, memory size and system version, and the reply's speed included, so the developer can reproduce the problem. You can read and change all of it in the email, and nothing is sent unless you send that email yourself. If no mail app is set up, Surnia shows the address to write to instead. A report you send is kept only to answer it and fix the problem it describes. To have yours deleted, write to omarluay@42l6.com.
 
-Since version 2.2, the email also includes the temperature setting, whether your custom instructions are on (never their text) and what the app's engine checks found on your device. When Apple's Mail app is set up, Surnia's engine log is attached where you can see it and remove it before sending: a technical record, with the date and time of each entry, of model names, loading, speeds, memory, the app's engine checks and errors on your device. Surnia writes none of your messages to it; an error of the chat store or of a chat template is recorded by its kind and code only, and warnings of the engine libraries (llama.cpp, MLX) appear in their own words. Settings › Report a problem opens the same kind of email, with the device details, the selected model's engine, checks and settings listed above, and the engine log, but no reply.
+Since version 2.2, the email also includes the Creativity setting, whether your custom instructions are on (never their text) and what the app's engine checks found on your device. When Apple's Mail app is set up, a file of technical details is attached where you can see it and remove it before sending: a technical record, with the date and time of each entry, of model names, loading, speeds, memory, the app's engine checks and errors on your device, and the summaries of crashes and other problems described below. Surnia writes none of your messages to it; an error of the chat store or of a chat template is recorded by its kind and code only, and warnings of the engine libraries (llama.cpp, MLX) appear in their own words. Settings › Report a problem opens the same kind of email, with the device details, the selected model's engine, checks and settings listed above, and the file of technical details, but no reply.
+
+## Crash and performance diagnostics
+
+If Surnia crashes, stops responding, or uses too much memory, processor time or storage, iOS may give Surnia a report about it. Surnia writes a short summary on your device into a file of technical details: the kind of problem, when it happened, the app and iOS versions, and where in Surnia's code it happened, with nothing from your chats. That file stays on your device and leaves it only if you send it to us with a problem report by email.
 
 ## Apple on-device model
 
